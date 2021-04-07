@@ -4,7 +4,7 @@
 - **PR Link:** https://github.com/w3f/Open-Grants-Program/pull/182 
 - **Milestone:** 1
 - **Kusama Identity:** None
-- **Previously successfully merged evaluation:** None
+- **Kusama Address:** FobBHc2eLy4HbfdRnKBCaQMvZkmLwqKG8LdTBHTBMewkczv 
 
 | Number | Deliverable | Accepted | Link | Evaluation Notes |
 | ------ | ----------- | -------- | ---- |----------------- |
